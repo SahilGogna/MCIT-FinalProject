@@ -1,0 +1,160 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="49633cf9-51fa-482b-998e-f5c22ebea63f" name="Default Changelist" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="CodeStyleSettingsInfer">
+    <option name="done" value="true" />
+  </component>
+  <component name="ExternalProjectsData">
+    <projectState path="$PROJECT_DIR$">
+      <ProjectState />
+    </projectState>
+  </component>
+  <component name="ProjectCodeStyleSettingsMigration">
+    <option name="version" value="1" />
+  </component>
+  <component name="ProjectId" id="1inwl2bL3GxJrGjrK17aCP1bv39" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showExcludedFiles" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="nodejs_interpreter_path.stuck_in_default_project" value="undefined stuck path" />
+    <property name="nodejs_npm_path_reset_for_default_project" value="true" />
+  </component>
+  <component name="RecentsManager">
+    <key name="MoveClassesOrPackagesDialog.RECENTS_KEY">
+      <recent name="util" />
+      <recent name="hive" />
+      <recent name="hadoop" />
+      <recent name="model" />
+    </key>
+    <key name="CopyClassDialog.RECENTS_KEY">
+      <recent name="" />
+    </key>
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/src/main/java" />
+    </key>
+  </component>
+  <component name="RunManager">
+    <configuration name="AppStarter" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="AppStarter" />
+      <module name="Sprint2" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Application.AppStarter" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SbtLocalSettings">
+    <option name="availableProjects">
+      <map>
+        <entry>
+          <key>
+            <ExternalProjectPojo>
+              <option name="name" value="Sprint2" />
+              <option name="path" value="$PROJECT_DIR$" />
+            </ExternalProjectPojo>
+          </key>
+          <value>
+            <list>
+              <ExternalProjectPojo>
+                <option name="name" value="sprint2 [file:/Users/sahilgogna/Documents/Sprint2/]" />
+                <option name="path" value="$PROJECT_DIR$" />
+              </ExternalProjectPojo>
+              <ExternalProjectPojo>
+                <option name="name" value="Sprint2-build" />
+                <option name="path" value="$PROJECT_DIR$/project" />
+              </ExternalProjectPojo>
+            </list>
+          </value>
+        </entry>
+      </map>
+    </option>
+    <option name="modificationStamps">
+      <map>
+        <entry key="$PROJECT_DIR$" value="3205799872488" />
+        <entry key="$PROJECT_DIR$/build.sbt" value="2984053306" />
+        <entry key="$PROJECT_DIR$/project/build.properties" value="196385411" />
+      </map>
+    </option>
+    <option name="projectSyncType">
+      <map>
+        <entry key="$PROJECT_DIR$/../spark-data/spark-essentials" value="PREVIEW" />
+        <entry key="$PROJECT_DIR$/../spark-data/spark-learning" value="PREVIEW" />
+        <entry key="$PROJECT_DIR$/../spark-streaming" value="PREVIEW" />
+      </map>
+    </option>
+  </component>
+  <component name="ServiceViewManager">
+    <option name="viewStates">
+      <list>
+        <serviceView>
+          <treeState>
+            <expand />
+            <select />
+          </treeState>
+        </serviceView>
+      </list>
+    </option>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="49633cf9-51fa-482b-998e-f5c22ebea63f" name="Default Changelist" comment="" />
+      <created>1602556810788</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1602556810788</updated>
+    </task>
+    <servers />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="184" y="107" key="#com.intellij.execution.impl.EditConfigurationsDialog" timestamp="1602559434381">
+      <screen x="0" y="0" width="1440" height="900" />
+    </state>
+    <state x="184" y="107" key="#com.intellij.execution.impl.EditConfigurationsDialog/0.0.1440.900@0.0.1440.900" timestamp="1602559434381" />
+    <state x="396" y="189" key="#com.intellij.ide.util.PackageChooserDialog" timestamp="1602560023412">
+      <screen x="0" y="0" width="1440" height="900" />
+    </state>
+    <state x="396" y="189" key="#com.intellij.ide.util.PackageChooserDialog/0.0.1440.900@0.0.1440.900" timestamp="1602560023412" />
+    <state x="394" y="201" key="#com.intellij.ide.util.TreeClassChooserDialog" timestamp="1602559430983">
+      <screen x="0" y="0" width="1440" height="900" />
+    </state>
+    <state x="394" y="201" key="#com.intellij.ide.util.TreeClassChooserDialog/0.0.1440.900@0.0.1440.900" timestamp="1602559430983" />
+    <state x="441" y="292" width="558" height="328" key="#com.intellij.refactoring.move.moveClassesOrPackages.MoveClassesOrPackagesDialog.classes" timestamp="1602560024852">
+      <screen x="0" y="0" width="1440" height="900" />
+    </state>
+    <state x="441" y="292" width="558" height="328" key="#com.intellij.refactoring.move.moveClassesOrPackages.MoveClassesOrPackagesDialog.classes/0.0.1440.900@0.0.1440.900" timestamp="1602560024852" />
+    <state width="1440" height="250" key="GridCell.Tab.0.bottom" timestamp="1603330352535">
+      <screen x="0" y="0" width="1440" height="900" />
+    </state>
+    <state width="1440" height="250" key="GridCell.Tab.0.bottom/0.0.1440.900@0.0.1440.900" timestamp="1603330352535" />
+    <state width="1440" height="250" key="GridCell.Tab.0.center" timestamp="1603330352533">
+      <screen x="0" y="0" width="1440" height="900" />
+    </state>
+    <state width="1440" height="250" key="GridCell.Tab.0.center/0.0.1440.900@0.0.1440.900" timestamp="1603330352533" />
+    <state width="1440" height="250" key="GridCell.Tab.0.left" timestamp="1603330352532">
+      <screen x="0" y="0" width="1440" height="900" />
+    </state>
+    <state width="1440" height="250" key="GridCell.Tab.0.left/0.0.1440.900@0.0.1440.900" timestamp="1603330352532" />
+    <state width="1440" height="250" key="GridCell.Tab.0.right" timestamp="1603330352534">
+      <screen x="0" y="0" width="1440" height="900" />
+    </state>
+    <state width="1440" height="250" key="GridCell.Tab.0.right/0.0.1440.900@0.0.1440.900" timestamp="1603330352534" />
+  </component>
+</project>

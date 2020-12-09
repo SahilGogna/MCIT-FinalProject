@@ -1,0 +1,222 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="81738458-e8b2-4cbc-ba69-d873f5704929" name="Default Changelist" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="CodeStyleSettingsInfer">
+    <option name="done" value="true" />
+  </component>
+  <component name="ExternalProjectsData">
+    <projectState path="$PROJECT_DIR$">
+      <ProjectState />
+    </projectState>
+  </component>
+  <component name="ProjectCodeStyleSettingsMigration">
+    <option name="version" value="1" />
+  </component>
+  <component name="ProjectId" id="1jANc1nJyXVPbqOzDLBYxvl7gJB" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showExcludedFiles" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="nodejs_interpreter_path.stuck_in_default_project" value="undefined stuck path" />
+    <property name="nodejs_npm_path_reset_for_default_project" value="true" />
+    <property name="project.structure.last.edited" value="Modules" />
+    <property name="project.structure.proportion" value="0.0" />
+    <property name="project.structure.side.proportion" value="0.0" />
+  </component>
+  <component name="RunManager" selected="Application.SparkEnrichment">
+    <configuration name="Consumer" type="Application" factoryName="Application" temporary="true">
+      <option name="MAIN_CLASS_NAME" value="ca.bigdata.kafka.Consumer" />
+      <module name="Sprint3" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="ca.bigdata.kafka.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="HadoopService" type="Application" factoryName="Application" temporary="true">
+      <option name="MAIN_CLASS_NAME" value="ca.bigdata.hadoop.HadoopService" />
+      <module name="Sprint3" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="ca.bigdata.hadoop.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Main" type="Application" factoryName="Application" temporary="true">
+      <option name="MAIN_CLASS_NAME" value="ca.bigdata.hadoop.Main" />
+      <module name="Sprint3" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="ca.bigdata.hadoop.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Producer" type="Application" factoryName="Application" temporary="true">
+      <option name="MAIN_CLASS_NAME" value="ca.bigdata.kafka.Producer" />
+      <module name="Sprint3" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="ca.bigdata.kafka.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="SparkEnrichment" type="Application" factoryName="Application" temporary="true">
+      <option name="MAIN_CLASS_NAME" value="ca.bigdata.spark.SparkEnrichment" />
+      <module name="Sprint3" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="ca.bigdata.spark.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Application.SparkEnrichment" />
+        <item itemvalue="Application.Producer" />
+        <item itemvalue="Application.HadoopService" />
+        <item itemvalue="Application.Consumer" />
+        <item itemvalue="Application.Main" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SbtLocalSettings">
+    <option name="availableProjects">
+      <map>
+        <entry>
+          <key>
+            <ExternalProjectPojo>
+              <option name="name" value="Sprint3" />
+              <option name="path" value="$PROJECT_DIR$" />
+            </ExternalProjectPojo>
+          </key>
+          <value>
+            <list>
+              <ExternalProjectPojo>
+                <option name="name" value="sprint3 [file:/Users/sahilgogna/Documents/Sprint3/]" />
+                <option name="path" value="$PROJECT_DIR$" />
+              </ExternalProjectPojo>
+              <ExternalProjectPojo>
+                <option name="name" value="Sprint3-build" />
+                <option name="path" value="$PROJECT_DIR$/project" />
+              </ExternalProjectPojo>
+            </list>
+          </value>
+        </entry>
+      </map>
+    </option>
+    <option name="modificationStamps">
+      <map>
+        <entry key="$PROJECT_DIR$" value="3206544725499" />
+        <entry key="$PROJECT_DIR$/build.sbt" value="2654372365" />
+        <entry key="$PROJECT_DIR$/project/build.properties" value="2092149269" />
+      </map>
+    </option>
+    <option name="projectSyncType">
+      <map>
+        <entry key="$PROJECT_DIR$/../spark-data/spark-essentials" value="PREVIEW" />
+        <entry key="$PROJECT_DIR$/../spark-data/spark-learning" value="PREVIEW" />
+        <entry key="$PROJECT_DIR$/../spark-streaming" value="PREVIEW" />
+      </map>
+    </option>
+  </component>
+  <component name="ServiceViewManager">
+    <option name="viewStates">
+      <list>
+        <serviceView>
+          <treeState>
+            <expand />
+            <select />
+          </treeState>
+        </serviceView>
+      </list>
+    </option>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="81738458-e8b2-4cbc-ba69-d873f5704929" name="Default Changelist" comment="" />
+      <created>1603243011076</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1603243011076</updated>
+    </task>
+    <servers />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="220" y="34" key="#Project_Structure" timestamp="1603382344967">
+      <screen x="0" y="0" width="1440" height="900" />
+    </state>
+    <state x="220" y="34" key="#Project_Structure/0.0.1440.900@0.0.1440.900" timestamp="1603382344967" />
+    <state x="458" y="207" key="#com.intellij.codeInsight.editorActions.RestoreReferencesDialog" timestamp="1603381193401">
+      <screen x="0" y="0" width="1440" height="900" />
+    </state>
+    <state x="458" y="207" key="#com.intellij.codeInsight.editorActions.RestoreReferencesDialog/0.0.1440.900@0.0.1440.900" timestamp="1603381193401" />
+    <state width="1388" height="10" key="GridCell.Tab.0.bottom" timestamp="1604528751651">
+      <screen x="0" y="0" width="1440" height="900" />
+    </state>
+    <state width="1388" height="10" key="GridCell.Tab.0.bottom/0.0.1440.900@0.0.1440.900" timestamp="1604528751651" />
+    <state width="1440" height="273" key="GridCell.Tab.0.bottom/0.23.1440.814@0.23.1440.814" timestamp="1603331276870" />
+    <state width="1388" height="196" key="GridCell.Tab.0.bottom/0.23.1440.816@0.23.1440.816" timestamp="1604456620986" />
+    <state width="1388" height="422" key="GridCell.Tab.0.bottom/0.23.1440.821@0.23.1440.821" timestamp="1604509392548" />
+    <state width="1440" height="192" key="GridCell.Tab.0.bottom/0.23.1440.822@0.23.1440.822" timestamp="1603677355348" />
+    <state width="1440" height="397" key="GridCell.Tab.0.bottom/0.23.1440.825@0.23.1440.825" timestamp="1603673789601" />
+    <state width="1388" height="10" key="GridCell.Tab.0.center" timestamp="1604528751650">
+      <screen x="0" y="0" width="1440" height="900" />
+    </state>
+    <state width="1388" height="10" key="GridCell.Tab.0.center/0.0.1440.900@0.0.1440.900" timestamp="1604528751650" />
+    <state width="1440" height="273" key="GridCell.Tab.0.center/0.23.1440.814@0.23.1440.814" timestamp="1603331276870" />
+    <state width="1388" height="196" key="GridCell.Tab.0.center/0.23.1440.816@0.23.1440.816" timestamp="1604456620982" />
+    <state width="1388" height="422" key="GridCell.Tab.0.center/0.23.1440.821@0.23.1440.821" timestamp="1604509392546" />
+    <state width="1440" height="192" key="GridCell.Tab.0.center/0.23.1440.822@0.23.1440.822" timestamp="1603677355347" />
+    <state width="1440" height="397" key="GridCell.Tab.0.center/0.23.1440.825@0.23.1440.825" timestamp="1603673789599" />
+    <state width="1388" height="10" key="GridCell.Tab.0.left" timestamp="1604528751649">
+      <screen x="0" y="0" width="1440" height="900" />
+    </state>
+    <state width="1388" height="10" key="GridCell.Tab.0.left/0.0.1440.900@0.0.1440.900" timestamp="1604528751649" />
+    <state width="1440" height="273" key="GridCell.Tab.0.left/0.23.1440.814@0.23.1440.814" timestamp="1603331276869" />
+    <state width="1388" height="196" key="GridCell.Tab.0.left/0.23.1440.816@0.23.1440.816" timestamp="1604456620981" />
+    <state width="1388" height="422" key="GridCell.Tab.0.left/0.23.1440.821@0.23.1440.821" timestamp="1604509392545" />
+    <state width="1440" height="192" key="GridCell.Tab.0.left/0.23.1440.822@0.23.1440.822" timestamp="1603677355346" />
+    <state width="1440" height="397" key="GridCell.Tab.0.left/0.23.1440.825@0.23.1440.825" timestamp="1603673789598" />
+    <state width="1388" height="10" key="GridCell.Tab.0.right" timestamp="1604528751651">
+      <screen x="0" y="0" width="1440" height="900" />
+    </state>
+    <state width="1388" height="10" key="GridCell.Tab.0.right/0.0.1440.900@0.0.1440.900" timestamp="1604528751651" />
+    <state width="1440" height="273" key="GridCell.Tab.0.right/0.23.1440.814@0.23.1440.814" timestamp="1603331276870" />
+    <state width="1388" height="196" key="GridCell.Tab.0.right/0.23.1440.816@0.23.1440.816" timestamp="1604456620984" />
+    <state width="1388" height="422" key="GridCell.Tab.0.right/0.23.1440.821@0.23.1440.821" timestamp="1604509392547" />
+    <state width="1440" height="192" key="GridCell.Tab.0.right/0.23.1440.822@0.23.1440.822" timestamp="1603677355347" />
+    <state width="1440" height="397" key="GridCell.Tab.0.right/0.23.1440.825@0.23.1440.825" timestamp="1603673789600" />
+  </component>
+</project>
